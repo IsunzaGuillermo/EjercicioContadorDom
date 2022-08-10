@@ -1,0 +1,55 @@
+body{
+    background-color: #75a7b6;
+}
+
+h1, h2{
+    font-size: 50px;
+    font-family: 'Lucida Sans Unicode';
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+#incr{
+    background-color: rgb(236, 94, 58);
+    border-radius: 15px;
+    padding: 1rem;
+    margin: 1rem;
+    color:azure;
+    border: solid rgb(236, 94, 58);
+}   
+
+#incr:hover {
+    background-color: rgb(240, 175, 90);
+    border:rgb(240, 175, 90);
+}
+
+#reset{
+    background-color: rgb(94, 94, 94);
+    border-radius: 15px;
+    padding: 1rem;
+    margin: 1rem;
+    color:azure;
+    border: solid rgb(94, 94, 94);
+}
+
+#reset:hover {
+    background-color: rgb(131, 124, 124);
+    border:rgb(131, 124, 124);
+}
+
+#decr{
+    background-color: rgb(155, 60, 199);
+    border-radius: 15px;
+    padding: 1rem;
+    margin: 1rem;
+    color:azure;
+    border: solid rgb(155, 60, 199);
+}
+
+#decr:hover {
+    background-color: rgb(177, 86, 219);
+    border: rgb(177, 86, 219);
+}
